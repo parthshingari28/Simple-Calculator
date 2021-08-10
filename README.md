@@ -1,5 +1,5 @@
 # Calculator-Js
-A calculator-js is a site that performs arithmetic operations on numbers. It can do addition, subtraction, multiplication, and division.
+A calculator-js is a site that performs arithmetic operations on numbers. It can do addition, subtraction, multiplication, division and mod.
 
 # Calculator-Js
 
